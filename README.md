@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-cse101-homework-3
+<br>
+Attached is a C source code which displays a menu to the user to perform some mathematical operations. Some of the options are not implemented and you are supposed to implement that empty options to obtain a complete program. Also an executable complete program is given you as a guidance. Your program should produce exactly the same  outputs with the given program.
